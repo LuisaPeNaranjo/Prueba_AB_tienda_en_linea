@@ -24,13 +24,13 @@ Todos los datasets se encuentran en la carpeta `data/`:
 
 ## Estructura del repositorio
 
-/Prueba_AB_tienda_en_linea/
-│-- README.md
-│-- prueba A/B.ipynb # Notebook con análisis completo
-│-- images/ # Visualizaciones generadas
-│ ├── 01_distribucion_eventos_por_grupo.png
-│ └── 02_funnel_stage_comparison.png
-│-- data/ # Datasets originales
+`/Prueba_AB_tienda_en_linea/`
+│-- `README.md`
+│-- `prueba A/B.ipynb # Notebook con análisis completo`
+│-- `imagenes/ # Visualizaciones generadas`
+│ ├── `01_distribucion_eventos_por_grupo.png`
+│ └── `02_funnel_stage_comparison.png`
+│-- `data/ # Datasets originales`
 
 
 ## Análisis realizado
@@ -58,7 +58,7 @@ Todos los datasets se encuentran en la carpeta `data/`:
 ## Visualizaciones
 
 ### Distribución de eventos por grupo
-![Distribución de eventos por grupo](images/01_distribucion_eventos_por_grupo.png)
+![Distribución de eventos por grupo](Prueba_AB_tienda_en_linea/imagenes/01_distribucion_eventos_por_grupo.png)
 
 ### Comparación del embudo de conversión
-![Funnel Stage Comparison](images/02_funnel_stage_comparison.png)
+![Funnel Stage Comparison](Prueba_AB_tienda_en_linea/imagenes/02_funnel_stage_comparison.png)
