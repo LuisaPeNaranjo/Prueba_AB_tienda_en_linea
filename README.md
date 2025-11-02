@@ -61,4 +61,4 @@ Todos los datasets se encuentran en la carpeta `data/`:
 ![Distribución de eventos por grupo](imagenes/01_distribucion_eventos_por_grupo.png)
 
 ### Comparación del embudo de conversión
-![Comparación del embudo de conversión](imagenes/02_funnel_stage_comparison.png)
+![Comparación del embudo de conversión](imagenes/02_numero_de_eventos_diarios.png)
